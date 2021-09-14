@@ -1,0 +1,2251 @@
+Determining if files sys/types.h;acl/libacl.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a852d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a852d.dir/build.make CMakeFiles/cmTC_a852d.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a852d.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_a852d.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:3:10: fatal error: acl/libacl.h: No such file or directory
+ #include <acl/libacl.h>
+          ^~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_a852d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a852d.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_a852d.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a852d/fast' failed
+make: *** [cmTC_a852d/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <acl/libacl.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;attr/xattr.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8f659/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8f659.dir/build.make CMakeFiles/cmTC_8f659.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8f659.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_8f659.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:3:10: fatal error: attr/xattr.h: No such file or directory
+ #include <attr/xattr.h>
+          ^~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_8f659.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8f659.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_8f659.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8f659/fast' failed
+make: *** [cmTC_8f659/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <attr/xattr.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;copyfile.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ed543/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ed543.dir/build.make CMakeFiles/cmTC_ed543.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ed543.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_ed543.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:4:10: fatal error: copyfile.h: No such file or directory
+ #include <copyfile.h>
+          ^~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_ed543.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ed543.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_ed543.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ed543/fast' failed
+make: *** [cmTC_ed543/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <copyfile.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;direct.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bd5db/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bd5db.dir/build.make CMakeFiles/cmTC_bd5db.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bd5db.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_bd5db.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:4:10: fatal error: direct.h: No such file or directory
+ #include <direct.h>
+          ^~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_bd5db.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_bd5db.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_bd5db.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_bd5db/fast' failed
+make: *** [cmTC_bd5db/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <direct.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;ext2fs/ext2_fs.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_49c0f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_49c0f.dir/build.make CMakeFiles/cmTC_49c0f.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_49c0f.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_49c0f.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:6:10: fatal error: ext2fs/ext2_fs.h: No such file or directory
+ #include <ext2fs/ext2_fs.h>
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_49c0f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_49c0f.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_49c0f.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_49c0f/fast' failed
+make: *** [cmTC_49c0f/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <ext2fs/ext2_fs.h>
+
+
+int main(void){return 0;}
+
+Performing C SOURCE FILE Test HAVE_WORKING_EXT2_IOC_GETFLAGS failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7b8b6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7b8b6.dir/build.make CMakeFiles/cmTC_7b8b6.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7b8b6.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_WORKING_EXT2_IOC_GETFLAGS -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_7b8b6.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:2:10: fatal error: ext2fs/ext2_fs.h: No such file or directory
+ #include <ext2fs/ext2_fs.h>
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_7b8b6.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_7b8b6.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_7b8b6.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7b8b6/fast' failed
+make: *** [cmTC_7b8b6/fast] Error 2
+
+Source file was:
+#include <sys/ioctl.h>
+#include <ext2fs/ext2_fs.h>
+int main(void) { return EXT2_IOC_GETFLAGS; }
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;io.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4ac5b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4ac5b.dir/build.make CMakeFiles/cmTC_4ac5b.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4ac5b.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_4ac5b.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:9:10: fatal error: io.h: No such file or directory
+ #include <io.h>
+          ^~~~~~
+compilation terminated.
+CMakeFiles/cmTC_4ac5b.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_4ac5b.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_4ac5b.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4ac5b/fast' failed
+make: *** [cmTC_4ac5b/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <io.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;membership.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_23015/fast"
+/usr/bin/make -f CMakeFiles/cmTC_23015.dir/build.make CMakeFiles/cmTC_23015.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_23015.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_23015.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:16:10: fatal error: membership.h: No such file or directory
+ #include <membership.h>
+          ^~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_23015.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_23015.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_23015.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_23015/fast' failed
+make: *** [cmTC_23015/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <membership.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;process.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cdbc2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cdbc2.dir/build.make CMakeFiles/cmTC_cdbc2.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cdbc2.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_cdbc2.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:19:10: fatal error: process.h: No such file or directory
+ #include <process.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_cdbc2.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_cdbc2.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_cdbc2.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_cdbc2/fast' failed
+make: *** [cmTC_cdbc2/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <process.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;readpassphrase.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4ad5b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4ad5b.dir/build.make CMakeFiles/cmTC_4ad5b.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4ad5b.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_4ad5b.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:21:10: fatal error: readpassphrase.h: No such file or directory
+ #include <readpassphrase.h>
+          ^~~~~~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_4ad5b.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_4ad5b.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_4ad5b.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4ad5b/fast' failed
+make: *** [cmTC_4ad5b/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <readpassphrase.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/acl.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0c136/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0c136.dir/build.make CMakeFiles/cmTC_0c136.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0c136.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_0c136.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:29:10: fatal error: sys/acl.h: No such file or directory
+ #include <sys/acl.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_0c136.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0c136.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_0c136.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_0c136/fast' failed
+make: *** [cmTC_0c136/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/acl.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/extattr.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_42321/fast"
+/usr/bin/make -f CMakeFiles/cmTC_42321.dir/build.make CMakeFiles/cmTC_42321.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_42321.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_42321.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:30:10: fatal error: sys/extattr.h: No such file or directory
+ #include <sys/extattr.h>
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_42321.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_42321.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_42321.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_42321/fast' failed
+make: *** [cmTC_42321/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/extattr.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/ioctl.h;sys/mkdev.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_39acb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_39acb.dir/build.make CMakeFiles/cmTC_39acb.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_39acb.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_39acb.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:31:10: fatal error: sys/mkdev.h: No such file or directory
+ #include <sys/mkdev.h>
+          ^~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_39acb.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_39acb.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_39acb.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_39acb/fast' failed
+make: *** [cmTC_39acb/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/ioctl.h>
+#include <sys/mkdev.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/ioctl.h;sys/mount.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b8fd5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b8fd5.dir/build.make CMakeFiles/cmTC_b8fd5.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b8fd5.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_b8fd5.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+In file included from /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:13:0:
+/usr/include/aarch64-linux-gnu/sys/mount.h:35:3: error: expected identifier before numeric constant
+   MS_RDONLY = 1,  /* Mount read-only.  */
+   ^
+CMakeFiles/cmTC_b8fd5.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_b8fd5.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_b8fd5.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b8fd5/fast' failed
+make: *** [cmTC_b8fd5/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/ioctl.h>
+#include <sys/mount.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/ioctl.h;sys/param.h;sys/poll.h;sys/richacl.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8c106/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8c106.dir/build.make CMakeFiles/cmTC_8c106.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8c106.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_8c106.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:33:10: fatal error: sys/richacl.h: No such file or directory
+ #include <sys/richacl.h>
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_8c106.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8c106.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_8c106.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8c106/fast' failed
+make: *** [cmTC_8c106/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/ioctl.h>
+#include <sys/param.h>
+#include <sys/poll.h>
+#include <sys/richacl.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/ioctl.h;sys/param.h;sys/poll.h;sys/select.h;sys/stat.h;sys/statfs.h;sys/statvfs.h;sys/sysmacros.h;sys/time.h;sys/utime.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0e7b4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0e7b4.dir/build.make CMakeFiles/cmTC_0e7b4.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0e7b4.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_0e7b4.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:39:10: fatal error: sys/utime.h: No such file or directory
+ #include <sys/utime.h>
+          ^~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_0e7b4.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0e7b4.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_0e7b4.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_0e7b4/fast' failed
+make: *** [cmTC_0e7b4/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/ioctl.h>
+#include <sys/param.h>
+#include <sys/poll.h>
+#include <sys/select.h>
+#include <sys/stat.h>
+#include <sys/statfs.h>
+#include <sys/statvfs.h>
+#include <sys/sysmacros.h>
+#include <sys/time.h>
+#include <sys/utime.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/ioctl.h;sys/param.h;sys/poll.h;sys/select.h;sys/stat.h;sys/statfs.h;sys/statvfs.h;sys/sysmacros.h;sys/time.h;sys/utsname.h;sys/vfs.h;sys/wait.h;sys/xattr.h;time.h;unistd.h;utime.h;wchar.h;wctype.h;windows.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_42cf9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_42cf9.dir/build.make CMakeFiles/cmTC_42cf9.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_42cf9.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_42cf9.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:48:10: fatal error: windows.h: No such file or directory
+ #include <windows.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_42cf9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_42cf9.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_42cf9.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_42cf9/fast' failed
+make: *** [cmTC_42cf9/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/ioctl.h>
+#include <sys/param.h>
+#include <sys/poll.h>
+#include <sys/select.h>
+#include <sys/stat.h>
+#include <sys/statfs.h>
+#include <sys/statvfs.h>
+#include <sys/sysmacros.h>
+#include <sys/time.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/wait.h>
+#include <sys/xattr.h>
+#include <time.h>
+#include <unistd.h>
+#include <utime.h>
+#include <wchar.h>
+#include <wctype.h>
+#include <windows.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/ioctl.h;sys/param.h;sys/poll.h;sys/select.h;sys/stat.h;sys/statfs.h;sys/statvfs.h;sys/sysmacros.h;sys/time.h;sys/utsname.h;sys/vfs.h;sys/wait.h;sys/xattr.h;time.h;unistd.h;utime.h;wchar.h;wctype.h;Bcrypt.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9982d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9982d.dir/build.make CMakeFiles/cmTC_9982d.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9982d.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_9982d.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:48:10: fatal error: Bcrypt.h: No such file or directory
+ #include <Bcrypt.h>
+          ^~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_9982d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_9982d.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_9982d.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9982d/fast' failed
+make: *** [cmTC_9982d/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/ioctl.h>
+#include <sys/param.h>
+#include <sys/poll.h>
+#include <sys/select.h>
+#include <sys/stat.h>
+#include <sys/statfs.h>
+#include <sys/statvfs.h>
+#include <sys/sysmacros.h>
+#include <sys/time.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/wait.h>
+#include <sys/xattr.h>
+#include <time.h>
+#include <unistd.h>
+#include <utime.h>
+#include <wchar.h>
+#include <wctype.h>
+#include <Bcrypt.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/ioctl.h;sys/param.h;sys/poll.h;sys/select.h;sys/stat.h;sys/statfs.h;sys/statvfs.h;sys/sysmacros.h;sys/time.h;sys/utsname.h;sys/vfs.h;sys/wait.h;sys/xattr.h;time.h;unistd.h;utime.h;wchar.h;wctype.h;wincrypt.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ecb5d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ecb5d.dir/build.make CMakeFiles/cmTC_ecb5d.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ecb5d.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_ecb5d.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:48:10: fatal error: wincrypt.h: No such file or directory
+ #include <wincrypt.h>
+          ^~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_ecb5d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ecb5d.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_ecb5d.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ecb5d/fast' failed
+make: *** [cmTC_ecb5d/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/ioctl.h>
+#include <sys/param.h>
+#include <sys/poll.h>
+#include <sys/select.h>
+#include <sys/stat.h>
+#include <sys/statfs.h>
+#include <sys/statvfs.h>
+#include <sys/sysmacros.h>
+#include <sys/time.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/wait.h>
+#include <sys/xattr.h>
+#include <time.h>
+#include <unistd.h>
+#include <utime.h>
+#include <wchar.h>
+#include <wctype.h>
+#include <wincrypt.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/types.h;ctype.h;dlfcn.h;errno.h;fcntl.h;grp.h;inttypes.h;langinfo.h;limits.h;linux/types.h;linux/fiemap.h;linux/fs.h;linux/magic.h;locale.h;memory.h;paths.h;poll.h;pthread.h;pwd.h;regex.h;signal.h;spawn.h;stdarg.h;stdint.h;stdlib.h;string.h;strings.h;sys/cdefs.h;sys/ioctl.h;sys/param.h;sys/poll.h;sys/select.h;sys/stat.h;sys/statfs.h;sys/statvfs.h;sys/sysmacros.h;sys/time.h;sys/utsname.h;sys/vfs.h;sys/wait.h;sys/xattr.h;time.h;unistd.h;utime.h;wchar.h;wctype.h;winioctl.h exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a87ba/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a87ba.dir/build.make CMakeFiles/cmTC_a87ba.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a87ba.dir/CheckIncludeFiles.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_a87ba.dir/CheckIncludeFiles.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:48:10: fatal error: winioctl.h: No such file or directory
+ #include <winioctl.h>
+          ^~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_a87ba.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a87ba.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_a87ba.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a87ba/fast' failed
+make: *** [cmTC_a87ba/fast] Error 2
+
+Source:
+/* */
+#include <sys/types.h>
+#include <ctype.h>
+#include <dlfcn.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <inttypes.h>
+#include <langinfo.h>
+#include <limits.h>
+#include <linux/types.h>
+#include <linux/fiemap.h>
+#include <linux/fs.h>
+#include <linux/magic.h>
+#include <locale.h>
+#include <memory.h>
+#include <paths.h>
+#include <poll.h>
+#include <pthread.h>
+#include <pwd.h>
+#include <regex.h>
+#include <signal.h>
+#include <spawn.h>
+#include <stdarg.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <string.h>
+#include <strings.h>
+#include <sys/cdefs.h>
+#include <sys/ioctl.h>
+#include <sys/param.h>
+#include <sys/poll.h>
+#include <sys/select.h>
+#include <sys/stat.h>
+#include <sys/statfs.h>
+#include <sys/statvfs.h>
+#include <sys/sysmacros.h>
+#include <sys/time.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/wait.h>
+#include <sys/xattr.h>
+#include <time.h>
+#include <unistd.h>
+#include <utime.h>
+#include <wchar.h>
+#include <wctype.h>
+#include <winioctl.h>
+
+
+int main(void){return 0;}
+
+Determining if the function MD5Init exists in the md failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_80b28/fast"
+/usr/bin/make -f CMakeFiles/cmTC_80b28.dir/build.make CMakeFiles/cmTC_80b28.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_80b28.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=MD5Init -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_80b28.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_80b28
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_80b28.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=MD5Init -Wall -Wformat -Wformat-security    -rdynamic CMakeFiles/cmTC_80b28.dir/CheckFunctionExists.c.o  -o cmTC_80b28 -lmd 
+/usr/bin/ld: cannot find -lmd
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_80b28.dir/build.make:97: recipe for target 'cmTC_80b28' failed
+make[1]: *** [cmTC_80b28] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_80b28/fast' failed
+make: *** [cmTC_80b28/fast] Error 2
+
+
+Performing C SOURCE FILE Test HAVE_ICONV_libc_const failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2b9fc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2b9fc.dir/build.make CMakeFiles/cmTC_2b9fc.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2b9fc.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_ICONV_libc_const -Wall -Wformat -Wformat-security -Werror   -o CMakeFiles/cmTC_2b9fc.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:6:21: error: passing argument 2 of ‘iconv’ from incompatible pointer type [-Werror=incompatible-pointer-types]
+           iconv(cd, &ccp, (size_t *)0, (char **)0, (size_t *)0);
+                     ^
+In file included from /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:2:0:
+/usr/include/iconv.h:42:15: note: expected ‘char ** restrict’ but argument is of type ‘const char **’
+ extern size_t iconv (iconv_t __cd, char **__restrict __inbuf,
+               ^~~~~
+cc1: all warnings being treated as errors
+CMakeFiles/cmTC_2b9fc.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_2b9fc.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_2b9fc.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2b9fc/fast' failed
+make: *** [cmTC_2b9fc/fast] Error 2
+
+Source file was:
+#include <stdlib.h>
+       #include <iconv.h>
+       int main() {
+          const char *ccp;
+          iconv_t cd = iconv_open("", "");
+          iconv(cd, &ccp, (size_t *)0, (char **)0, (size_t *)0);
+          iconv_close(cd);
+          return 0;
+       }
+Determining if the _CrtSetReportMode exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_070fc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_070fc.dir/build.make CMakeFiles/cmTC_070fc.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_070fc.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_070fc.dir/CheckSymbolExists.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:10: fatal error: crtdbg.h: No such file or directory
+ #include <crtdbg.h>
+          ^~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_070fc.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_070fc.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_070fc.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_070fc/fast' failed
+make: *** [cmTC_070fc/fast] Error 2
+
+File /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <crtdbg.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _CrtSetReportMode
+  return ((int*)(&_CrtSetReportMode))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function arc4random_buf exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e4635/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e4635.dir/build.make CMakeFiles/cmTC_e4635.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e4635.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=arc4random_buf -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_e4635.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_e4635
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e4635.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=arc4random_buf -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_e4635.dir/CheckFunctionExists.c.o  -o cmTC_e4635 
+CMakeFiles/cmTC_e4635.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `arc4random_buf'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_e4635.dir/build.make:97: recipe for target 'cmTC_e4635' failed
+make[1]: *** [cmTC_e4635] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e4635/fast' failed
+make: *** [cmTC_e4635/fast] Error 2
+
+
+Determining if the function getvfsbyname exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_90cf2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_90cf2.dir/build.make CMakeFiles/cmTC_90cf2.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_90cf2.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=getvfsbyname -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_90cf2.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_90cf2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_90cf2.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=getvfsbyname -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_90cf2.dir/CheckFunctionExists.c.o  -o cmTC_90cf2 
+CMakeFiles/cmTC_90cf2.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `getvfsbyname'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_90cf2.dir/build.make:97: recipe for target 'cmTC_90cf2' failed
+make[1]: *** [cmTC_90cf2] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_90cf2/fast' failed
+make: *** [cmTC_90cf2/fast] Error 2
+
+
+Determining if the function lchflags exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_05df8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_05df8.dir/build.make CMakeFiles/cmTC_05df8.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_05df8.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=lchflags -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_05df8.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_05df8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_05df8.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=lchflags -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_05df8.dir/CheckFunctionExists.c.o  -o cmTC_05df8 
+CMakeFiles/cmTC_05df8.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `lchflags'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_05df8.dir/build.make:97: recipe for target 'cmTC_05df8' failed
+make[1]: *** [cmTC_05df8] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_05df8/fast' failed
+make: *** [cmTC_05df8/fast] Error 2
+
+
+Determining if the function readpassphrase exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e2b7c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e2b7c.dir/build.make CMakeFiles/cmTC_e2b7c.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e2b7c.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=readpassphrase -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_e2b7c.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_e2b7c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e2b7c.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=readpassphrase -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_e2b7c.dir/CheckFunctionExists.c.o  -o cmTC_e2b7c 
+CMakeFiles/cmTC_e2b7c.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `readpassphrase'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_e2b7c.dir/build.make:97: recipe for target 'cmTC_e2b7c' failed
+make[1]: *** [cmTC_e2b7c] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e2b7c/fast' failed
+make: *** [cmTC_e2b7c/fast] Error 2
+
+
+Determining if the function strncpy_s exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a5f22/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a5f22.dir/build.make CMakeFiles/cmTC_a5f22.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a5f22.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=strncpy_s -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_a5f22.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_a5f22
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a5f22.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=strncpy_s -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_a5f22.dir/CheckFunctionExists.c.o  -o cmTC_a5f22 
+CMakeFiles/cmTC_a5f22.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `strncpy_s'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_a5f22.dir/build.make:97: recipe for target 'cmTC_a5f22' failed
+make[1]: *** [cmTC_a5f22] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a5f22/fast' failed
+make: *** [cmTC_a5f22/fast] Error 2
+
+
+Determining if the function _ctime64_s exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_be8ad/fast"
+/usr/bin/make -f CMakeFiles/cmTC_be8ad.dir/build.make CMakeFiles/cmTC_be8ad.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_be8ad.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_ctime64_s -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_be8ad.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_be8ad
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_be8ad.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_ctime64_s -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_be8ad.dir/CheckFunctionExists.c.o  -o cmTC_be8ad 
+CMakeFiles/cmTC_be8ad.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `_ctime64_s'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_be8ad.dir/build.make:97: recipe for target 'cmTC_be8ad' failed
+make[1]: *** [cmTC_be8ad] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_be8ad/fast' failed
+make: *** [cmTC_be8ad/fast] Error 2
+
+
+Determining if the function _fseeki64 exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_19978/fast"
+/usr/bin/make -f CMakeFiles/cmTC_19978.dir/build.make CMakeFiles/cmTC_19978.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_19978.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_fseeki64 -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_19978.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_19978
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_19978.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_fseeki64 -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_19978.dir/CheckFunctionExists.c.o  -o cmTC_19978 
+CMakeFiles/cmTC_19978.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `_fseeki64'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_19978.dir/build.make:97: recipe for target 'cmTC_19978' failed
+make[1]: *** [cmTC_19978] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_19978/fast' failed
+make: *** [cmTC_19978/fast] Error 2
+
+
+Determining if the function _get_timezone exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_05f65/fast"
+/usr/bin/make -f CMakeFiles/cmTC_05f65.dir/build.make CMakeFiles/cmTC_05f65.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_05f65.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_get_timezone -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_05f65.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_05f65
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_05f65.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_get_timezone -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_05f65.dir/CheckFunctionExists.c.o  -o cmTC_05f65 
+CMakeFiles/cmTC_05f65.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `_get_timezone'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_05f65.dir/build.make:97: recipe for target 'cmTC_05f65' failed
+make[1]: *** [cmTC_05f65] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_05f65/fast' failed
+make: *** [cmTC_05f65/fast] Error 2
+
+
+Determining if the function _gmtime64_s exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_776ab/fast"
+/usr/bin/make -f CMakeFiles/cmTC_776ab.dir/build.make CMakeFiles/cmTC_776ab.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_776ab.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_gmtime64_s -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_776ab.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_776ab
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_776ab.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_gmtime64_s -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_776ab.dir/CheckFunctionExists.c.o  -o cmTC_776ab 
+CMakeFiles/cmTC_776ab.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `_gmtime64_s'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_776ab.dir/build.make:97: recipe for target 'cmTC_776ab' failed
+make[1]: *** [cmTC_776ab] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_776ab/fast' failed
+make: *** [cmTC_776ab/fast] Error 2
+
+
+Determining if the function _localtime64_s exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1922e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1922e.dir/build.make CMakeFiles/cmTC_1922e.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1922e.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_localtime64_s -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_1922e.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1922e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1922e.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_localtime64_s -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_1922e.dir/CheckFunctionExists.c.o  -o cmTC_1922e 
+CMakeFiles/cmTC_1922e.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `_localtime64_s'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_1922e.dir/build.make:97: recipe for target 'cmTC_1922e' failed
+make[1]: *** [cmTC_1922e] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1922e/fast' failed
+make: *** [cmTC_1922e/fast] Error 2
+
+
+Determining if the function _mkgmtime64 exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_27e71/fast"
+/usr/bin/make -f CMakeFiles/cmTC_27e71.dir/build.make CMakeFiles/cmTC_27e71.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_27e71.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_mkgmtime64 -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_27e71.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_27e71
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_27e71.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=_mkgmtime64 -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_27e71.dir/CheckFunctionExists.c.o  -o cmTC_27e71 
+CMakeFiles/cmTC_27e71.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `_mkgmtime64'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_27e71.dir/build.make:97: recipe for target 'cmTC_27e71' failed
+make[1]: *** [cmTC_27e71] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_27e71/fast' failed
+make: *** [cmTC_27e71/fast] Error 2
+
+
+Determining if the function cygwin_conv_path exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_45e6b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_45e6b.dir/build.make CMakeFiles/cmTC_45e6b.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_45e6b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=cygwin_conv_path -Wall -Wformat -Wformat-security -fno-builtin   -o CMakeFiles/cmTC_45e6b.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_45e6b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_45e6b.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=cygwin_conv_path -Wall -Wformat -Wformat-security -fno-builtin    -rdynamic CMakeFiles/cmTC_45e6b.dir/CheckFunctionExists.c.o  -o cmTC_45e6b 
+CMakeFiles/cmTC_45e6b.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `cygwin_conv_path'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_45e6b.dir/build.make:97: recipe for target 'cmTC_45e6b' failed
+make[1]: *** [cmTC_45e6b] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_45e6b/fast' failed
+make: *** [cmTC_45e6b/fast] Error 2
+
+
+Performing C SOURCE FILE Test HAVE_STRUCT_VFSCONF failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f75d9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f75d9.dir/build.make CMakeFiles/cmTC_f75d9.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f75d9.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_VFSCONF -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_f75d9.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:33: error: storage size of ‘v’ isn’t known
+ int main(void) { struct vfsconf v; return sizeof(v);}
+                                 ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:33: warning: unused variable ‘v’ [-Wunused-variable]
+CMakeFiles/cmTC_f75d9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f75d9.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_f75d9.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f75d9/fast' failed
+make: *** [cmTC_f75d9/fast] Error 2
+
+Source file was:
+#include <sys/types.h>
+#include <sys/mount.h>
+int main(void) { struct vfsconf v; return sizeof(v);}
+Performing C SOURCE FILE Test HAVE_STRUCT_XVFSCONF failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_dfaa5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_dfaa5.dir/build.make CMakeFiles/cmTC_dfaa5.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dfaa5.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_XVFSCONF -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_dfaa5.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:34: error: storage size of ‘v’ isn’t known
+ int main(void) { struct xvfsconf v; return sizeof(v);}
+                                  ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:34: warning: unused variable ‘v’ [-Wunused-variable]
+CMakeFiles/cmTC_dfaa5.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_dfaa5.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_dfaa5.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_dfaa5/fast' failed
+make: *** [cmTC_dfaa5/fast] Error 2
+
+Source file was:
+#include <sys/types.h>
+#include <sys/mount.h>
+int main(void) { struct xvfsconf v; return sizeof(v);}
+Performing C SOURCE FILE Test HAVE_STRUCT_STATFS failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c2c4e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c2c4e.dir/build.make CMakeFiles/cmTC_c2c4e.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c2c4e.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STATFS -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_c2c4e.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:32: error: storage size of ‘s’ isn’t known
+ int main(void) { struct statfs s; return sizeof(s);}
+                                ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:32: warning: unused variable ‘s’ [-Wunused-variable]
+CMakeFiles/cmTC_c2c4e.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_c2c4e.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_c2c4e.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c2c4e/fast' failed
+make: *** [cmTC_c2c4e/fast] Error 2
+
+Source file was:
+#include <sys/types.h>
+#include <sys/mount.h>
+int main(void) { struct statfs s; return sizeof(s);}
+Performing C SOURCE FILE Test MAJOR_IN_MKDEV failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_11a7d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_11a7d.dir/build.make CMakeFiles/cmTC_11a7d.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_11a7d.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DMAJOR_IN_MKDEV -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_11a7d.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:1:10: fatal error: sys/mkdev.h: No such file or directory
+ #include <sys/mkdev.h>
+          ^~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_11a7d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_11a7d.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_11a7d.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_11a7d/fast' failed
+make: *** [cmTC_11a7d/fast] Error 2
+
+Source file was:
+#include <sys/mkdev.h>
+int main() { return major(256); }
+Performing C SOURCE FILE Test HAVE_LZMA_STREAM_ENCODER_MT failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9b056/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9b056.dir/build.make CMakeFiles/cmTC_9b056.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9b056.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_LZMA_STREAM_ENCODER_MT -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_9b056.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:1:10: fatal error: lzma.h: No such file or directory
+ #include <lzma.h>
+          ^~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_9b056.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_9b056.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_9b056.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9b056/fast' failed
+make: *** [cmTC_9b056/fast] Error 2
+
+Source file was:
+#include <lzma.h>
+#if LZMA_VERSION < 50020000
+#error unsupported
+#endif
+int main(void){lzma_stream_encoder_mt(0, 0); return 0;}
+Determining if the EFTYPE exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b5e08/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b5e08.dir/build.make CMakeFiles/cmTC_b5e08.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b5e08.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_b5e08.dir/CheckSymbolExists.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘EFTYPE’ undeclared (first use in this function); did you mean ‘ESPIPE’?
+   return ((int*)(&EFTYPE))[argc];
+                   ^~~~~~
+                   ESPIPE
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_b5e08.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_b5e08.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_b5e08.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b5e08/fast' failed
+make: *** [cmTC_b5e08/fast] Error 2
+
+File /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <errno.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef EFTYPE
+  return ((int*)(&EFTYPE))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the D_MD_ORDER exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5b70e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5b70e.dir/build.make CMakeFiles/cmTC_5b70e.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5b70e.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_5b70e.dir/CheckSymbolExists.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘D_MD_ORDER’ undeclared (first use in this function)
+   return ((int*)(&D_MD_ORDER))[argc];
+                   ^~~~~~~~~~
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_5b70e.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_5b70e.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_5b70e.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5b70e/fast' failed
+make: *** [cmTC_5b70e/fast] Error 2
+
+File /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <langinfo.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef D_MD_ORDER
+  return ((int*)(&D_MD_ORDER))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_TM___TM_GMTOFF failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_047ef/fast"
+/usr/bin/make -f CMakeFiles/cmTC_047ef.dir/build.make CMakeFiles/cmTC_047ef.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_047ef.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_TM___TM_GMTOFF -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_047ef.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:6:35: error: ‘struct tm’ has no member named ‘__tm_gmtoff’; did you mean ‘tm_gmtoff’?
+    (void)sizeof(((struct tm *)0)->__tm_gmtoff);
+                                   ^~~~~~~~~~~
+                                   tm_gmtoff
+CMakeFiles/cmTC_047ef.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_047ef.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_047ef.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_047ef/fast' failed
+make: *** [cmTC_047ef/fast] Error 2
+
+Source file was:
+
+#include <time.h>
+
+int main()
+{
+   (void)sizeof(((struct tm *)0)->__tm_gmtoff);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_BIRTHTIME failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_65f09/fast"
+/usr/bin/make -f CMakeFiles/cmTC_65f09.dir/build.make CMakeFiles/cmTC_65f09.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_65f09.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STAT_ST_BIRTHTIME -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_65f09.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:7:37: error: ‘struct stat’ has no member named ‘st_birthtime’; did you mean ‘st_blksize’?
+    (void)sizeof(((struct stat *)0)->st_birthtime);
+                                     ^~~~~~~~~~~~
+                                     st_blksize
+CMakeFiles/cmTC_65f09.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_65f09.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_65f09.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_65f09/fast' failed
+make: *** [cmTC_65f09/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_birthtime);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_BIRTHTIMESPEC_TV_NSEC failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b367f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b367f.dir/build.make CMakeFiles/cmTC_b367f.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b367f.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STAT_ST_BIRTHTIMESPEC_TV_NSEC -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_b367f.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:7:35: error: ‘struct stat’ has no member named ‘st_birthtimespec’
+    (void)sizeof(((struct stat *)0)->st_birthtimespec.tv_nsec);
+                                   ^~
+CMakeFiles/cmTC_b367f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_b367f.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_b367f.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b367f/fast' failed
+make: *** [cmTC_b367f/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_birthtimespec.tv_nsec);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_MTIMESPEC_TV_NSEC failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6c5f6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6c5f6.dir/build.make CMakeFiles/cmTC_6c5f6.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6c5f6.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STAT_ST_MTIMESPEC_TV_NSEC -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_6c5f6.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:7:37: error: ‘struct stat’ has no member named ‘st_mtimespec’; did you mean ‘st_mtim’?
+    (void)sizeof(((struct stat *)0)->st_mtimespec.tv_nsec);
+                                     ^~~~~~~~~~~~
+                                     st_mtim
+CMakeFiles/cmTC_6c5f6.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_6c5f6.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_6c5f6.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_6c5f6/fast' failed
+make: *** [cmTC_6c5f6/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_mtimespec.tv_nsec);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_MTIME_N failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_54154/fast"
+/usr/bin/make -f CMakeFiles/cmTC_54154.dir/build.make CMakeFiles/cmTC_54154.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_54154.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STAT_ST_MTIME_N -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_54154.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:7:37: error: ‘struct stat’ has no member named ‘st_mtime_n’; did you mean ‘st_mtim’?
+    (void)sizeof(((struct stat *)0)->st_mtime_n);
+                                     ^~~~~~~~~~
+                                     st_mtim
+CMakeFiles/cmTC_54154.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_54154.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_54154.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_54154/fast' failed
+make: *** [cmTC_54154/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_mtime_n);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_UMTIME failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ef3e7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ef3e7.dir/build.make CMakeFiles/cmTC_ef3e7.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ef3e7.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STAT_ST_UMTIME -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_ef3e7.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:7:37: error: ‘struct stat’ has no member named ‘st_umtime’; did you mean ‘st_mtim’?
+    (void)sizeof(((struct stat *)0)->st_umtime);
+                                     ^~~~~~~~~
+                                     st_mtim
+CMakeFiles/cmTC_ef3e7.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ef3e7.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_ef3e7.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ef3e7/fast' failed
+make: *** [cmTC_ef3e7/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_umtime);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_MTIME_USEC failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1c98b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1c98b.dir/build.make CMakeFiles/cmTC_1c98b.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1c98b.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STAT_ST_MTIME_USEC -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_1c98b.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:7:37: error: ‘struct stat’ has no member named ‘st_mtime_usec’; did you mean ‘st_mtim’?
+    (void)sizeof(((struct stat *)0)->st_mtime_usec);
+                                     ^~~~~~~~~~~~~
+                                     st_mtim
+CMakeFiles/cmTC_1c98b.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_1c98b.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_1c98b.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1c98b/fast' failed
+make: *** [cmTC_1c98b/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_mtime_usec);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STAT_ST_FLAGS failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6ca30/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6ca30.dir/build.make CMakeFiles/cmTC_6ca30.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6ca30.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STAT_ST_FLAGS -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_6ca30.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:7:37: error: ‘struct stat’ has no member named ‘st_flags’; did you mean ‘st_nlink’?
+    (void)sizeof(((struct stat *)0)->st_flags);
+                                     ^~~~~~~~
+                                     st_nlink
+CMakeFiles/cmTC_6ca30.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_6ca30.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_6ca30.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_6ca30/fast' failed
+make: *** [cmTC_6ca30/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/stat.h>
+
+int main()
+{
+   (void)sizeof(((struct stat *)0)->st_flags);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_STATVFS_F_IOSIZE failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fecc1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fecc1.dir/build.make CMakeFiles/cmTC_fecc1.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fecc1.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_STATVFS_F_IOSIZE -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_fecc1.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:7:40: error: ‘struct statvfs’ has no member named ‘f_iosize’; did you mean ‘f_bsize’?
+    (void)sizeof(((struct statvfs *)0)->f_iosize);
+                                        ^~~~~~~~
+                                        f_bsize
+CMakeFiles/cmTC_fecc1.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_fecc1.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_fecc1.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_fecc1/fast' failed
+make: *** [cmTC_fecc1/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/statvfs.h>
+
+int main()
+{
+   (void)sizeof(((struct statvfs *)0)->f_iosize);
+   return 0;
+}
+
+Determining size of __int64 failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4a2a1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4a2a1.dir/build.make CMakeFiles/cmTC_4a2a1.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4a2a1.dir/__INT64.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_4a2a1.dir/__INT64.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/__INT64.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/__INT64.c:23:22: error: ‘__int64’ undeclared here (not in a function); did you mean ‘__int64_t’?
+ #define SIZE (sizeof(__int64))
+                      ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/__INT64.c:25:12: note: in expansion of macro ‘SIZE’
+   ('0' + ((SIZE / 10000)%10)),
+            ^~~~
+CMakeFiles/cmTC_4a2a1.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_4a2a1.dir/__INT64.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_4a2a1.dir/__INT64.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4a2a1/fast' failed
+make: *** [cmTC_4a2a1/fast] Error 2
+
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/__INT64.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(__int64))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining size of unsigned __int64 failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_24694/fast"
+/usr/bin/make -f CMakeFiles/cmTC_24694.dir/build.make CMakeFiles/cmTC_24694.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_24694.dir/UNSIGNED___INT64.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_24694.dir/UNSIGNED___INT64.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:23:31: error: expected ‘)’ before ‘__int64’
+ #define SIZE (sizeof(unsigned __int64))
+                               ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:25:12: note: in expansion of macro ‘SIZE’
+   ('0' + ((SIZE / 10000)%10)),
+            ^~~~
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:23:31: error: expected ‘)’ before ‘__int64’
+ #define SIZE (sizeof(unsigned __int64))
+                               ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:26:12: note: in expansion of macro ‘SIZE’
+   ('0' + ((SIZE / 1000)%10)),
+            ^~~~
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:23:31: error: expected ‘)’ before ‘__int64’
+ #define SIZE (sizeof(unsigned __int64))
+                               ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:27:12: note: in expansion of macro ‘SIZE’
+   ('0' + ((SIZE / 100)%10)),
+            ^~~~
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:23:31: error: expected ‘)’ before ‘__int64’
+ #define SIZE (sizeof(unsigned __int64))
+                               ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:28:12: note: in expansion of macro ‘SIZE’
+   ('0' + ((SIZE / 10)%10)),
+            ^~~~
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:23:31: error: expected ‘)’ before ‘__int64’
+ #define SIZE (sizeof(unsigned __int64))
+                               ^
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:29:12: note: in expansion of macro ‘SIZE’
+   ('0' +  (SIZE    % 10)),
+            ^~~~
+CMakeFiles/cmTC_24694.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_24694.dir/UNSIGNED___INT64.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_24694.dir/UNSIGNED___INT64.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_24694/fast' failed
+make: *** [cmTC_24694/fast] Error 2
+
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CheckTypeSize/UNSIGNED___INT64.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(unsigned __int64))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function setxattr exists in the attr failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_dee19/fast"
+/usr/bin/make -f CMakeFiles/cmTC_dee19.dir/build.make CMakeFiles/cmTC_dee19.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dee19.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=setxattr -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_dee19.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_dee19
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dee19.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=setxattr -Wall -Wformat -Wformat-security    -rdynamic CMakeFiles/cmTC_dee19.dir/CheckFunctionExists.c.o  -o cmTC_dee19 -lattr 
+/usr/bin/ld: cannot find -lattr
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_dee19.dir/build.make:97: recipe for target 'cmTC_dee19' failed
+make[1]: *** [cmTC_dee19] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_dee19/fast' failed
+make: *** [cmTC_dee19/fast] Error 2
+
+
+Determining if the function setxattr exists in the gnu failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5b461/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5b461.dir/build.make CMakeFiles/cmTC_5b461.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5b461.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=setxattr -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_5b461.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5b461
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5b461.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=setxattr -Wall -Wformat -Wformat-security    -rdynamic CMakeFiles/cmTC_5b461.dir/CheckFunctionExists.c.o  -o cmTC_5b461 -lgnu 
+/usr/bin/ld: cannot find -lgnu
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_5b461.dir/build.make:97: recipe for target 'cmTC_5b461' failed
+make[1]: *** [cmTC_5b461] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5b461/fast' failed
+make: *** [cmTC_5b461/fast] Error 2
+
+
+Determining if the EXTATTR_NAMESPACE_USER exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_36315/fast"
+/usr/bin/make -f CMakeFiles/cmTC_36315.dir/build.make CMakeFiles/cmTC_36315.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_36315.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_36315.dir/CheckSymbolExists.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:3:10: fatal error: sys/extattr.h: No such file or directory
+ #include <sys/extattr.h>
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_36315.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_36315.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_36315.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_36315/fast' failed
+make: *** [cmTC_36315/fast] Error 2
+
+File /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+#include <sys/extattr.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef EXTATTR_NAMESPACE_USER
+  return ((int*)(&EXTATTR_NAMESPACE_USER))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the XATTR_NOFOLLOW exist failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_adbb1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_adbb1.dir/build.make CMakeFiles/cmTC_adbb1.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_adbb1.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_adbb1.dir/CheckSymbolExists.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘XATTR_NOFOLLOW’ undeclared (first use in this function); did you mean ‘XATTR_REPLACE’?
+   return ((int*)(&XATTR_NOFOLLOW))[argc];
+                   ^~~~~~~~~~~~~~
+                   XATTR_REPLACE
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_adbb1.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_adbb1.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_adbb1.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_adbb1/fast' failed
+make: *** [cmTC_adbb1/fast] Error 2
+
+File /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/xattr.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef XATTR_NOFOLLOW
+  return ((int*)(&XATTR_NOFOLLOW))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function acl exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_833ff/fast"
+/usr/bin/make -f CMakeFiles/cmTC_833ff.dir/build.make CMakeFiles/cmTC_833ff.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_833ff.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=acl -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_833ff.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_833ff
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_833ff.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=acl -Wall -Wformat -Wformat-security    -rdynamic CMakeFiles/cmTC_833ff.dir/CheckFunctionExists.c.o  -o cmTC_833ff 
+CMakeFiles/cmTC_833ff.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `acl'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_833ff.dir/build.make:97: recipe for target 'cmTC_833ff' failed
+make[1]: *** [cmTC_833ff] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_833ff/fast' failed
+make: *** [cmTC_833ff/fast] Error 2
+
+
+Determining if the function facl exists failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1c7b0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1c7b0.dir/build.make CMakeFiles/cmTC_1c7b0.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1c7b0.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=facl -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_1c7b0.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1c7b0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1c7b0.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=facl -Wall -Wformat -Wformat-security    -rdynamic CMakeFiles/cmTC_1c7b0.dir/CheckFunctionExists.c.o  -o cmTC_1c7b0 
+CMakeFiles/cmTC_1c7b0.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x10): undefined reference to `facl'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_1c7b0.dir/build.make:97: recipe for target 'cmTC_1c7b0' failed
+make[1]: *** [cmTC_1c7b0] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1c7b0/fast' failed
+make: *** [cmTC_1c7b0/fast] Error 2
+
+
+Determining if the function acl_get_file exists in the acl failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_740f4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_740f4.dir/build.make CMakeFiles/cmTC_740f4.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_740f4.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=acl_get_file -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_740f4.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_740f4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_740f4.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=acl_get_file -Wall -Wformat -Wformat-security    -rdynamic CMakeFiles/cmTC_740f4.dir/CheckFunctionExists.c.o  -o cmTC_740f4 -lacl 
+/usr/bin/ld: cannot find -lacl
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_740f4.dir/build.make:97: recipe for target 'cmTC_740f4' failed
+make[1]: *** [cmTC_740f4] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_740f4/fast' failed
+make: *** [cmTC_740f4/fast] Error 2
+
+
+Performing C SOURCE FILE Test HAVE_ACL_T failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2aba0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2aba0.dir/build.make CMakeFiles/cmTC_2aba0.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2aba0.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_ACL_T -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_2aba0.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:10: fatal error: sys/acl.h: No such file or directory
+ #include <sys/acl.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_2aba0.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_2aba0.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_2aba0.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2aba0/fast' failed
+make: *** [cmTC_2aba0/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/acl.h>
+
+int main()
+{
+   static acl_t tmp;
+   if (sizeof(tmp))
+      return 0;
+  return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_ACL_ENTRY_T failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3ec4a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3ec4a.dir/build.make CMakeFiles/cmTC_3ec4a.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3ec4a.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_ACL_ENTRY_T -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_3ec4a.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:10: fatal error: sys/acl.h: No such file or directory
+ #include <sys/acl.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_3ec4a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_3ec4a.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_3ec4a.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3ec4a/fast' failed
+make: *** [cmTC_3ec4a/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/acl.h>
+
+int main()
+{
+   static acl_entry_t tmp;
+   if (sizeof(tmp))
+      return 0;
+  return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_ACL_PERMSET_T failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e1d4f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e1d4f.dir/build.make CMakeFiles/cmTC_e1d4f.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e1d4f.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_ACL_PERMSET_T -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_e1d4f.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:10: fatal error: sys/acl.h: No such file or directory
+ #include <sys/acl.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_e1d4f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_e1d4f.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_e1d4f.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e1d4f/fast' failed
+make: *** [cmTC_e1d4f/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/acl.h>
+
+int main()
+{
+   static acl_permset_t tmp;
+   if (sizeof(tmp))
+      return 0;
+  return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_ACL_TAG_T failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_22625/fast"
+/usr/bin/make -f CMakeFiles/cmTC_22625.dir/build.make CMakeFiles/cmTC_22625.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_22625.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_ACL_TAG_T -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_22625.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:3:10: fatal error: sys/acl.h: No such file or directory
+ #include <sys/acl.h>
+          ^~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_22625.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_22625.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_22625.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_22625/fast' failed
+make: *** [cmTC_22625/fast] Error 2
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/acl.h>
+
+int main()
+{
+   static acl_tag_t tmp;
+   if (sizeof(tmp))
+      return 0;
+  return 0;
+}
+
+Determining if the function richacl_get_file exists in the richacl failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_77c3b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_77c3b.dir/build.make CMakeFiles/cmTC_77c3b.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_77c3b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=richacl_get_file -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_77c3b.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_77c3b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_77c3b.dir/link.txt --verbose=1
+/usr/bin/cc  -Wall -Wformat -Wformat-security -DCHECK_FUNCTION_EXISTS=richacl_get_file -Wall -Wformat -Wformat-security    -rdynamic CMakeFiles/cmTC_77c3b.dir/CheckFunctionExists.c.o  -o cmTC_77c3b -lrichacl 
+/usr/bin/ld: cannot find -lrichacl
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_77c3b.dir/build.make:97: recipe for target 'cmTC_77c3b' failed
+make[1]: *** [cmTC_77c3b] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_77c3b/fast' failed
+make: *** [cmTC_77c3b/fast] Error 2
+
+
+Performing C SOURCE FILE Test HAVE_STRUCT_RICHACE failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8853f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8853f.dir/build.make CMakeFiles/cmTC_8853f.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8853f.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_RICHACE -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_8853f.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:2:10: fatal error: sys/richacl.h: No such file or directory
+ #include <sys/richacl.h>
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_8853f.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8853f.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_8853f.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8853f/fast' failed
+make: *** [cmTC_8853f/fast] Error 2
+
+Source file was:
+
+#include <sys/richacl.h>
+
+int main()
+{
+   (void)sizeof(((struct richace *)0)->e_type);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_STRUCT_RICHACL failed with the following output:
+Change Dir: /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e19e3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e19e3.dir/build.make CMakeFiles/cmTC_e19e3.dir/build
+make[1]: Entering directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e19e3.dir/src.c.o
+/usr/bin/cc   -Wall -Wformat -Wformat-security -DHAVE_STRUCT_RICHACL -Wall -Wformat -Wformat-security   -o CMakeFiles/cmTC_e19e3.dir/src.c.o   -c /home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c
+/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp/src.c:2:10: fatal error: sys/richacl.h: No such file or directory
+ #include <sys/richacl.h>
+          ^~~~~~~~~~~~~~~
+compilation terminated.
+CMakeFiles/cmTC_e19e3.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_e19e3.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_e19e3.dir/src.c.o] Error 1
+make[1]: Leaving directory '/home/tv2i/Downloads/libarchive-3.5.2/build_arm/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e19e3/fast' failed
+make: *** [cmTC_e19e3/fast] Error 2
+
+Source file was:
+
+#include <sys/richacl.h>
+
+int main()
+{
+   (void)sizeof(((struct richacl *)0)->a_flags);
+   return 0;
+}
+
